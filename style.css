@@ -186,7 +186,7 @@ a {
 }
 .headerLogo h1 a {
   display: block;
-  background-image: url(/img/logo.png);
+  background-image: url(img/logo.png);
   width: 170px;
   height: 36px;
   text-indent: 101%;
@@ -211,7 +211,7 @@ a {
 }
 
 .banner {
-  background-image: url(/img/Banner.png);
+  background-image: url(img/Banner.png);
   background-size: cover;
   background-position: center;
   min-height: 450px;
